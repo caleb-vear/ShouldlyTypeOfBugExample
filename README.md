@@ -1,0 +1,1 @@
+This project shows an example of a bug in the Shoudly assertion framework.
