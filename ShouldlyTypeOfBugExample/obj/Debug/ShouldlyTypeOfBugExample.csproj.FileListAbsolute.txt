@@ -1,0 +1,12 @@
+C:\Users\Caleb\Code\Scratch Pad\ShouldlyTypeOfBugExample\ShouldlyTypeOfBugExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Caleb\Code\Scratch Pad\ShouldlyTypeOfBugExample\ShouldlyTypeOfBugExample\bin\Debug\ShouldlyTypeOfBugExample.dll
+C:\Users\Caleb\Code\Scratch Pad\ShouldlyTypeOfBugExample\ShouldlyTypeOfBugExample\bin\Debug\ShouldlyTypeOfBugExample.pdb
+C:\Users\Caleb\Code\Scratch Pad\ShouldlyTypeOfBugExample\ShouldlyTypeOfBugExample\bin\Debug\nunit.framework.dll
+C:\Users\Caleb\Code\Scratch Pad\ShouldlyTypeOfBugExample\ShouldlyTypeOfBugExample\bin\Debug\nunit.mocks.dll
+C:\Users\Caleb\Code\Scratch Pad\ShouldlyTypeOfBugExample\ShouldlyTypeOfBugExample\bin\Debug\pnunit.framework.dll
+C:\Users\Caleb\Code\Scratch Pad\ShouldlyTypeOfBugExample\ShouldlyTypeOfBugExample\bin\Debug\Rhino.Mocks.dll
+C:\Users\Caleb\Code\Scratch Pad\ShouldlyTypeOfBugExample\ShouldlyTypeOfBugExample\bin\Debug\Shouldly.dll
+C:\Users\Caleb\Code\Scratch Pad\ShouldlyTypeOfBugExample\ShouldlyTypeOfBugExample\bin\Debug\nunit.framework.xml
+C:\Users\Caleb\Code\Scratch Pad\ShouldlyTypeOfBugExample\ShouldlyTypeOfBugExample\bin\Debug\Shouldly.pdb
+C:\Users\Caleb\Code\Scratch Pad\ShouldlyTypeOfBugExample\ShouldlyTypeOfBugExample\obj\Debug\ShouldlyTypeOfBugExample.dll
+C:\Users\Caleb\Code\Scratch Pad\ShouldlyTypeOfBugExample\ShouldlyTypeOfBugExample\obj\Debug\ShouldlyTypeOfBugExample.pdb

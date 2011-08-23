@@ -1,0 +1,13 @@
+*.suo
+*.cache
+*csproj.user
+src/*/bin
+src/*/obj
+*ReSharper*
+output
+*.pidb
+*.userprefs
+test-results
+*.gem
+*crunch*.xml
+*.nupkg
